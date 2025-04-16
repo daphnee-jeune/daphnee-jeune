@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daphnee-jeune
 - 👀 I’m interested in Javascript and all things React
-- 🌱 I’m currently learning and strengthening my React js skills
 - 📫 How to reach me daphneejeune.dev@gmail.com
 
 <!---
